@@ -1,16 +1,17 @@
 # Alex Cantor
 
-Cybersecurity student, competitor, and builder focused on attack/defense security, system hardening, and low-level exploitation.
+Cybersecurity student, competitor, and builder.
 
 My work centers on understanding how systems fail under real adversarial pressure, and turning that understanding into practical defenses, tooling, and documentation.
 
 ## Focus Areas
 
+- Web Exploitation
 - Attack/Defense environments and competition-style infrastructure
 - Linux and Windows system hardening and auditing
-- Detection engineering, logging, and incident response workflows
 - Binary exploitation (PWN) and reverse engineering
 - Security automation and scripting
+- Detection engineering, logging, and incident response workflows
 
 ## Competitions & Results
 
