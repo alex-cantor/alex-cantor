@@ -2,4 +2,4 @@
 
 Cybersecurity student, competitor, and builder.
 
-Read what I've done at [acantor.me](acantor.me) or connect at [linkedin.com/in/alex-cantor](linkedin.com/in/alex-cantor)
+Read what I've done at [https://acantor.me](https://acantor.me) or connect at [https://linkedin.com/in/alex-cantor](https://linkedin.com/in/alex-cantor)
